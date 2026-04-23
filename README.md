@@ -15,7 +15,7 @@ AWS Data Engineering Intern and Web Development Intern, building secure, data-dr
 ## 🔗 Connect with Me
 
 - 📧 **Email**: 2200080032aids@gmail.com
-- 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/manikanta-balla/
 - 🔗 **GitHub**: [@manikanta0403](https://github.com/manikanta0403)
 
 ## 🧩 Featured Projects
